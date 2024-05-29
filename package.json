@@ -1,0 +1,22 @@
+{
+  "name": "z99-student-managment-system",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zeenat somroo",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.22",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.8"
+  }
+}
